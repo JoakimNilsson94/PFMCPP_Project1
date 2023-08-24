@@ -52,13 +52,13 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun: oven
-//  action 1: the oven cooks food
-oven.cookFood();
-//  action 2: the oven consumes gas
-oven.consumeGas();
-//  action 3: the oven keeps heat
-oven.keepHeat();
+//  Noun: stove top
+//  action 1: the stove top boils water
+stoveTop.boilWater();
+//  action 2: the stove top burns gas
+stoveTop.burnGas();
+//  action 3: the stove top heats pan
+stoveTop.heatPan();
 //  2)
 //  Noun: table
 //  action 1: the table holds plates
@@ -117,8 +117,8 @@ airConditioner.blowAir();
 airConditioner.rotateBlade();
 //  9)
 //  Noun: candle
-//  action 1: the candle burns
-candle.Burn();
+//  action 1: the candle melt
+candle.melt();
 //  action 2: the candle illuminates attic
 candle.illuminateAttic();
 //  action 3: the candle starts fire
