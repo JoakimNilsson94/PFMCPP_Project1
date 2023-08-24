@@ -117,7 +117,7 @@ airConditioner.blowAir();
 airConditioner.rotateBlade();
 //  9)
 //  Noun: candle
-//  action 1: the candle melt
+//  action 1: the candle melts
 candle.melt();
 //  action 2: the candle illuminates attic
 candle.illuminateAttic();
