@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: oven
+//  action 1: the oven cooks food
+oven.cookFood();
+//  action 2: the oven consumes gas
+oven.consumeGas();
+//  action 3: the oven keeps heat
+oven.keepHeat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: table
+//  action 1: the table holds plates
+table.holdPlate();
+//  action 2: the table stands
+table.stand();
+//  action 3: the table deteriorates
+table.deteriorate();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: the car ignites engine
+car.ingiteEngine();
+//  action 2: the car transports 
+car.transport();
+//  action 3: the car recharges battery
+car.rechargeBattery();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog waggles tail
+dog.waggleTail();
+//  action 2: the dog barks
+dog.bark();
+//  action 3: the dog bites
+dog.bite();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone charger
+//  action 1: the phone charger charges
+phoneCharger.chargePhone();
+//  action 2: the phone charger consumes electricity
+phoneCharger.consumeElectricity();
+//  action 3: the phone charger gets warm
+phoneCharger.getWarm();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fork
+//  action 1: the fork penetrates food
+fork.penetrateFood();
+//  action 2: the fork holds food
+fork.holdFood();
+//  action 3: the fork drops food
+fork.dropFood();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: towel
+//  action 1: the towel absorbes water
+towel.absorbWater();
+//  action 2: the towel hangs
+towel.hang();
+//  action 3: the towel cleans
+towel.clean();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: air conditioner
+//  action 1: the air conditioner cools room
+airConditioner.coolRoom();
+//  action 2:the air conditioner blows air
+airConditioner.blowAir();
+//  action 3: the air conditoner rotates blade
+airConditioner.rotateBlade();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: candle
+//  action 1: the candle burns
+candle.Burn();
+//  action 2: the candle illuminates attic
+candle.illuminateAttic();
+//  action 3: the candle starts fire
+candle.startFire();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: beer tap
+//  action 1: the beer tap pours
+beerTap.pour();
+//  action 2: the beer tap chills
+beerTap.chill();
+//  action 3: the beer tap creates foam
+beerTap.createFoam();
 
 
 #endif
